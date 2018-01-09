@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 53d8c09517cc97045ac0c19aeb01d03f
+timeCreated: 1479732201
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - num1: {fileID: 1000010566112004, guid: a43453ebc7798d64083d05eb00d5aee0, type: 2}
+  - num2: {fileID: 1000010822325170, guid: 49fed90512b386742b56cfc62e2861ba, type: 2}
+  - num3: {fileID: 1000013906506622, guid: 0afd6d6bd09a5394e825c4d3449fe735, type: 2}
+  - music1: {fileID: 8300000, guid: ccb571cacbccdd24db0321da0f56edb9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
